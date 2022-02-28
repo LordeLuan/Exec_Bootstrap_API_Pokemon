@@ -34,7 +34,6 @@ function mostraPoke(){
             // Passa a informação da imagem criada para a div do HTML
             $('#imagempoke').append(imagemPoke);
             $('#imagempoke').show();
-
         }
     ); 
 }
